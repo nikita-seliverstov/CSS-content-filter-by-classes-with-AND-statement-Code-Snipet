@@ -1,4 +1,4 @@
-# CSS-content-filter-by-classes-with-AND-statement-Code-Snipet
+# CSS-content-filter-by-classes-with-AND-statement-Code-Snippet
 Filter content by css classes with AND statement in vanilla JavaScript
 
 To work with script you to add class that all elements contain and need to make event listener
